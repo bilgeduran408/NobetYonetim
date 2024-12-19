@@ -1,0 +1,35 @@
+﻿<!--
+
+@{
+    ViewData["Title"] = "Create Assistant"; // Sayfanın başlığı
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="AssistantName"></label>
+        <input asp-for="AssistantName" class="form-control" required />
+        <span asp-validation-for="AssistantName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AdminId">Select Admin</label>
+        <select asp-for="AdminId" class="form-control" required>
+            <option value="">-- Select Admin --</option>
+            @foreach (var admin in (ViewBag.AdminList as List<NobetYonetim.Models.Admin>))
+            {
+                <option value="@admin.AdminId">@admin.FullName</option>
+            }
+        </select>
+        <span asp-validation-for="AdminId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}
+-->
+

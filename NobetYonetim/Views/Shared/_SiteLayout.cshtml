@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+
+    <link href="~/css/styles.css" rel="stylesheet" />
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Site Adı</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Özel CSS dosyalarınız -->
+    <link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <!-- Header ve Navigasyon Menüsü -->
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#">Pediatri Nöbet Yönetim</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <!-- Navigasyon Menü Linkleri -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Index", "Home")">Anasayfa</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Asistan", "Home")">Asistanlar</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("OgretimUyeleri", "Home")">Öğretim Üyeleri</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Bolum", "Home")">Bölümler</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Takvim", "Home")">Takvim</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Randevu", "Home")">Randevu</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Acildurum", "Home")">Acil Durum</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+        <!-- İçerik Alanı: Sayfanın içeriği burada gösterilecek -->
+        <main>
+            @RenderBody() <!-- Sayfa içeriği burada render edilir -->
+        </main>
+    </div>
+
+    <!-- Footer (Alt Bilgi) -->
+    <footer class="footer bg-light py-3 mt-5">
+        <div class="container">
+            <p class="text-center">&copy; 2024 Site Adı</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript dosyaları -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

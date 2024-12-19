@@ -1,0 +1,21 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Admin Sayfası";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>Admin sayfasına hoş geldiniz! Burada admin işlemlerinizi gerçekleştirebilirsiniz.</p>
+
+<!-- Admin ile ilgili bağlantılar -->
+<ul>
+    <li><a href="@Url.Action("Asistan", "Admin")">Asistan Yönetimi</a></li>
+    <li><a href="@Url.Action("OgretimUyeleri", "Admin")">Öğretim Üyeleri Yönetimi</a></li>
+    <li><a href="@Url.Action("Randevu", "Admin")">Randevu Yönetimi</a></li>
+    <li><a href="@Url.Action("Bolum", "Admin")">Bölüm Yönetimi</a></li>
+    <li><a href="@Url.Action("Acildurum", "Admin")">Acil Durum Yönetimi</a></li>
+    <li><a href="@Url.Action("Takvim", "Admin")">Takvim Yönetimi</a></li>
+
+
+</ul>
+

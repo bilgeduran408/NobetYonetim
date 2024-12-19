@@ -1,0 +1,1098 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\admin\\createasistancshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\admin\\createasistancshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\admin\\createasistan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\admin\\createasistan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\admin\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\admin\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\_asistanlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\_asistanlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\_asistannlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\_asistannlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\home\\asistan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\home\\asistan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\home\\acildurum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\home\\acildurum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\admin\\asistan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\admin\\asistan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\admin\\adminpaneli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\admin\\adminpaneli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\models\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\models\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\repositories\\assistantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\repositories\\assistantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\bolum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\bolum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\asistann.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\asistann.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\view2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\view2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\_sitelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\_sitelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\assistant\\assistant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\assistant\\assistant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\professor\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\professor\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\professor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\professor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\professor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\professor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\professor\\professor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\professor\\professor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\department\\department.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\department\\department.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\assistant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\assistant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\assistant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\assistant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\controllers\\assistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\controllers\\assistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\viewmodels\\professorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\viewmodels\\professorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\viewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\viewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\viewmodels\\assistantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\viewmodels\\assistantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\repositories\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\repositories\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\repositories\\iprofessorrepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\repositories\\iprofessorrepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\repositories\\iassistantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\repositories\\iassistantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\repositories\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\repositories\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\_takvimlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\_takvimlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\home\\takvim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\home\\takvim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\_randevulayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\_randevulayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\home\\randevu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\home\\randevu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\_acildurumlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\_acildurumlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\_ogretimuyelerilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\_ogretimuyelerilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\home\\ogretimuyeleri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\home\\ogretimuyeleri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\_bolumlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\_bolumlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\home\\bolum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\home\\bolum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|c:\\users\\bilge\\source\\repos\\nobetyonetim\\nobetyonetim\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DDBD0AB6-C015-4EB2-BCF6-040E75C759D0}|NobetYonetim\\NobetYonetim.csproj|solutionrelative:nobetyonetim\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\View.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Admin\\View.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\View.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Admin\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T18:11:31.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateAsistan.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\CreateAsistan.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Admin\\CreateAsistan.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\CreateAsistan.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Admin\\CreateAsistan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T18:10:41.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AsistanLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_AsistanLayout.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\_AsistanLayout.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_AsistanLayout.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\_AsistanLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:07:02.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\appsettings.json",
+              "RelativeDocumentMoniker": "NobetYonetim\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\appsettings.json",
+              "RelativeToolTip": "NobetYonetim\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T16:28:40.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Program.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Program.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Program.cs",
+              "RelativeToolTip": "NobetYonetim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:03:34.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAsistancshtml.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\CreateAsistancshtml.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Admin\\CreateAsistancshtml.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\CreateAsistancshtml.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Admin\\CreateAsistancshtml.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T15:52:51.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_AsistannLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_AsistannLayout.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\_AsistannLayout.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_AsistannLayout.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\_AsistannLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T15:56:21.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "NobetYonetim\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAiwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:32:28.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T15:54:26.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Asistan.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\Asistan.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Home\\Asistan.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\Asistan.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Home\\Asistan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:04:32.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:02:38.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Acildurum.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\Acildurum.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Home\\Acildurum.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\Acildurum.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Home\\Acildurum.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:16:02.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Asistan.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\Asistan.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Admin\\Asistan.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\Asistan.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Admin\\Asistan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T15:52:06.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminPaneli.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\AdminPaneli.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Admin\\AdminPaneli.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\AdminPaneli.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Admin\\AdminPaneli.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T15:48:23.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NobetYonetim\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:01:30.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "NobetYonetim\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:43:50.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Models\\Admin.cs",
+              "RelativeToolTip": "NobetYonetim\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:15:20.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Models\\Department.cs",
+              "RelativeToolTip": "NobetYonetim\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:29:01.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Models\\Assistant.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Models\\Assistant.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Models\\Assistant.cs",
+              "RelativeToolTip": "NobetYonetim\\Models\\Assistant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:06:24.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssistantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\AssistantRepository.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Repositories\\AssistantRepository.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\AssistantRepository.cs",
+              "RelativeToolTip": "NobetYonetim\\Repositories\\AssistantRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:16:39.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\Layout.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\Layout.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T16:46:09.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Bolum.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\Bolum.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\Bolum.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\Bolum.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\Bolum.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T16:45:37.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Asistann.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\Asistann.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\Asistann.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\Asistann.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\Asistann.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T16:45:09.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "View2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\View2.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\View2.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\View2.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\View2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T16:43:16.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Professor.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Professor\\Professor.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Professor\\Professor.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Professor\\Professor.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Professor\\Professor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T10:09:24.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Professor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Professor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Professor\\Edit.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Professor\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T10:22:32.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "View1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\View1.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\View1.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\View1.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\View1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T16:42:49.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Assistant.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Assistant\\Assistant.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Assistant\\Assistant.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Assistant\\Assistant.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Assistant\\Assistant.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T16:04:58.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\View.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\View.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\View.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T16:37:26.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_SiteLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_SiteLayout.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\_SiteLayout.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_SiteLayout.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\_SiteLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T16:35:31.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T16:03:29.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T13:06:28.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Professor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Professor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Professor\\Delete.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Professor\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T10:10:14.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Professor\\Add.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Professor\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Professor\\Add.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Professor\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:34:00.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Department.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Department\\Department.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Department\\Department.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Department\\Department.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Department\\Department.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:30:51.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Department\\Add.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Department\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Department\\Add.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Department\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:39:00.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:39:14.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Assistant\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Assistant\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Assistant\\Edit.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Assistant\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T16:22:31.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Assistant\\Create.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Assistant\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Assistant\\Create.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Assistant\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:42:58.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Admin\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Admin\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T16:02:36.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T15:58:12.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "NobetYonetim\\Controllers\\ProfessorController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwGMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:17:11.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "NobetYonetim\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:16:48.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AssistantController.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Controllers\\AssistantController.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Controllers\\AssistantController.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Controllers\\AssistantController.cs",
+              "RelativeToolTip": "NobetYonetim\\Controllers\\AssistantController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:20:59.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProfessorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\ViewModels\\ProfessorViewModel.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\ViewModels\\ProfessorViewModel.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\ViewModels\\ProfessorViewModel.cs",
+              "RelativeToolTip": "NobetYonetim\\ViewModels\\ProfessorViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:49:06.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DepartmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\ViewModels\\DepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\ViewModels\\DepartmentViewModel.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\ViewModels\\DepartmentViewModel.cs",
+              "RelativeToolTip": "NobetYonetim\\ViewModels\\DepartmentViewModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:32:28.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AssistantViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\ViewModels\\AssistantViewModel.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\ViewModels\\AssistantViewModel.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\ViewModels\\AssistantViewModel.cs",
+              "RelativeToolTip": "NobetYonetim\\ViewModels\\AssistantViewModel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:26:08.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\ViewModels\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "NobetYonetim\\ViewModels\\AdminViewModel.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwDQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:18:32.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IProfessorRepositorycs.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\IProfessorRepositorycs.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Repositories\\IProfessorRepositorycs.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\IProfessorRepositorycs.cs",
+              "RelativeToolTip": "NobetYonetim\\Repositories\\IProfessorRepositorycs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:06:43.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\IDepartmentRepository.cs",
+              "RelativeToolTip": "NobetYonetim\\Repositories\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:55:46.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IAssistantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\IAssistantRepository.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Repositories\\IAssistantRepository.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\IAssistantRepository.cs",
+              "RelativeToolTip": "NobetYonetim\\Repositories\\IAssistantRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:17:38.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "NobetYonetim\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:56:12.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProfessorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\ProfessorRepository.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Repositories\\ProfessorRepository.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\ProfessorRepository.cs",
+              "RelativeToolTip": "NobetYonetim\\Repositories\\ProfessorRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:07:03.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "NobetYonetim\\Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:15:24.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "NobetYonetim\\Repositories\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Repositories\\IAdminRepository.cs",
+              "RelativeToolTip": "NobetYonetim\\Repositories\\IAdminRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:54:39.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_TakvimLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_TakvimLayout.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\_TakvimLayout.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_TakvimLayout.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\_TakvimLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:19:51.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Randevu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\Randevu.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Home\\Randevu.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\Randevu.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Home\\Randevu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:17:53.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_RandevuLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_RandevuLayout.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\_RandevuLayout.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_RandevuLayout.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\_RandevuLayout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwDYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:18:33.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Takvim.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\Takvim.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Home\\Takvim.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\Takvim.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Home\\Takvim.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:19:11.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_AcildurumLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_AcildurumLayout.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\_AcildurumLayout.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_AcildurumLayout.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\_AcildurumLayout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:16:55.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_OgretimUyeleriLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_OgretimUyeleriLayout.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\_OgretimUyeleriLayout.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_OgretimUyeleriLayout.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\_OgretimUyeleriLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:14:43.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OgretimUyeleri.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\OgretimUyeleri.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Home\\OgretimUyeleri.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\OgretimUyeleri.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Home\\OgretimUyeleri.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:13:49.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_BolumLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_BolumLayout.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\_BolumLayout.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_BolumLayout.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\_BolumLayout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwDYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:10:51.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Bolum.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\Bolum.cshtml",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Home\\Bolum.cshtml",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Home\\Bolum.cshtml",
+              "RelativeToolTip": "NobetYonetim\\Views\\Home\\Bolum.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T12:10:01.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "NobetYonetim\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Bilge\\source\\repos\\NobetYonetim\\NobetYonetim\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "NobetYonetim\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T13:06:39.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

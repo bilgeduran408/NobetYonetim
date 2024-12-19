@@ -1,0 +1,37 @@
+﻿@{
+    Layout = "~/Views/Shared/_AsistannLayout.cshtml";
+}
+@model IEnumerable<NobetYonetim.Models.Assistant>
+
+<h2>Asistanlar</h2>
+
+<a href="@Url.Action("CreateAsistan", "Admin")" class="btn btn-primary">Yeni Asistan Ekle</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Adı</th>
+            <th>Email</th>
+            <th>Maaş</th>
+            <th>Bonus</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var assistant in Model)
+        {
+            <tr>
+                <td>@assistant.AssistantId</td>
+                <td>@assistant.FullName</td>
+                <td>@assistant.Email</td>
+                <td>@assistant.Salary</td>
+                <td>@assistant.Bonus</td>
+                <td>
+                    <a href="@Url.Action("EditAsistan", "Admin", new { id = assistant.AssistantId })">Düzenle</a> |
+                    <a href="@Url.Action("DeleteAsistan", "Admin", new { id = assistant.AssistantId })">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

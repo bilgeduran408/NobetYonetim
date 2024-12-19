@@ -1,0 +1,27 @@
+﻿@{
+
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="jumbotron text-center">
+    <h1 class="display-4">Hoş Geldiniz!</h1>
+    <p class="lead">Siteye giriş yaptıktan sonra tüm özelliklere ulaşabilirsiniz.</p>
+    <hr class="my-4">
+    <p>Hakkında ve iletişim sayfalarına göz atmak için menüyü kullanabilirsiniz.</p>
+    <a class="btn btn-primary btn-lg" href="@Url.Action("About", "Home")" role="button">Assistant</a>
+</div>
+
+<!-- Örnek bir kart görünümü -->
+<div class="row">
+    <div class="col-md-4">
+        <div class="card">
+            <img class="card-img-top" src="~/images/sample.jpg" alt="Sample image">
+            <div class="card-body">
+                <h5 class="card-title">Başlık</h5>
+                <p class="card-text">Açıklama burada yer alır.</p>
+                <a href="#" class="btn btn-primary">Devamını Oku</a>
+            </div>
+        </div>
+    </div>
+</div>
